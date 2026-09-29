@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to My Portfolio
 
 Hello! I am Dominik, a student building practical software and learning to turn ideas into working programs.
