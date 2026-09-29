@@ -1,5 +1,5 @@
-title: "Dominik's Portfolio"
-description: "A student portfolio featuring C++ projects, problem-solving, and coding notes."
+title: My Portfolio
+description: This is my portfolio showcasing my projects and skills.
 baseurl: ""
 url: "https://dk2557.github.io"
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
