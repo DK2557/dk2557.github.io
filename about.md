@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About Me
 
 Hello! I am Dominik. I enjoy learning how software works and practicing by building small, useful programs. My goals are to become more confident with C++, problem solving, collaboration, and project organization while keeping my work clear and maintainable.
