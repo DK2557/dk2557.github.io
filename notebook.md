@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My Coding Notebook
 
 ## Table of Contents
