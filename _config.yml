@@ -1,0 +1,5 @@
+title: "Dominik's Portfolio"
+description: "A student portfolio featuring C++ projects, problem-solving, and coding notes."
+baseurl: ""
+url: "https://dk2557.github.io"
+theme: jekyll-theme-merlot
